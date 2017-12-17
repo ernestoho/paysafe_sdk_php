@@ -1,7 +1,7 @@
 <?php
 
-    $paysafeApiKeyId = 'test_ernexto';
-    $paysafeApiKeySecret = 'B-qa2-0-5a35d321-0-302d021454bfc0f0e290d1b1a49edc0028deb55dce3470c102150094375cdb1619663689c9f2958b3c0bf3155a3afb';
+    $paysafeApiKeyId = 'OT-171120';
+    $paysafeApiKeySecret = 'B-qa2-0-5a35d64a-0-302c021468be91924b1c55a469e2053098b4eb52add9d2a2021477114219d70f0bee945bc7cc5bbb94de3f87cd84';
     $paysafeAccountNumber = '1001177820';
 // The currencyCode should match the currency of your Paysafe account.
 // The currencyBaseUnitsMultipler should in turn match the currencyCode.
